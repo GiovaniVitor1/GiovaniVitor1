@@ -8,6 +8,12 @@ Tenho conhecimentos em Python, SQL, Power BI, Tableau, Java e Spring Boot, adqui
 
 Busco constantemente aprimorar minhas habilidades e conquistar oportunidades como Analista de Dados ou Desenvolvedor, contribuindo com soluções eficientes e orientadas por dados.
 
+## 🌐 Meu Portfólio
+
+Conheça meus projetos de Análise de Dados e Desenvolvimento:
+
+👉 [**Acessar Portfólio Profissional**](https://giovanivitor1.github.io/Portfolio_web/)
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
